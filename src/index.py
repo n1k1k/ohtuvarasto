@@ -1,5 +1,7 @@
 from varasto import Varasto
 
+#Muutos johonkin muuhun tiedostoon kuin README (Tehtävä 11)
+
 
 def main():
     mehua = Varasto(100.0)
