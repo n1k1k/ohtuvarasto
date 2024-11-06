@@ -9,7 +9,7 @@ def mehu_setterit(mehua):
     print(f"Mehuvarasto: {mehua}")
 
 def olut_getterit(olutta):
-    print(f'Olut getterit:\nsaldo = {olutta.saldo}')
+    print(f"Olut getterit:\nsaldo = {olutta.saldo}")
     print(f"""tilavuus = {olutta.tilavuus}\npaljonko_mahtuu =
 {olutta.paljonko_mahtuu()}""")
 
